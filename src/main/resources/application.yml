@@ -3,7 +3,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/board_crudDB
     username: root
-    password: terabyte05610
+    password: hihi
   jpa:
     database: mysql
     database-platform: org.hibernate.dialect.MySQLDialect
